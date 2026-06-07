@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+numpy
+pandas
+matplotlib
+scikit-learn
+gtts
+openai-whisper
